@@ -1,3 +1,0 @@
-/home/vboxuser/abc/concurrency/01/build/CMakeFiles/mycc.dir
-/home/vboxuser/abc/concurrency/01/build/CMakeFiles/edit_cache.dir
-/home/vboxuser/abc/concurrency/01/build/CMakeFiles/rebuild_cache.dir
